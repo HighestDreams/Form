@@ -1,0 +1,8 @@
+---
+name: WelcomeUI
+author: HighestDreams
+version: 1.0.0
+main: HighestDreams\WelcomeUI\Loader
+api: 4.0.0
+src-namespace-prefix: HighestDreams\WelcomeUI
+...
